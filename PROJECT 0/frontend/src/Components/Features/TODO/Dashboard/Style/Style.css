@@ -1,0 +1,56 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.todo-mail-button {
+    background-color: #ea4335;
+    border: none;
+    border-radius: 3px;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 6px 16px;
+    text-transform: uppercase;
+  }
+  
+  .todo-mail-button:hover {
+    background-color: #f45140;              
+  }
+  
+  .todo-mail-button:focus {
+    outline: none;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2), 0 2px 10px 0 rgba(0, 0, 0, 0.14);
+  }
+  
+  .todo-mail-button:active {
+    background-color: #d53b2f;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.16), 0 1px 3px 0 rgba(0, 0, 0, 0.12);
+  }
+
+  .filter_pagination{
+    padding: 5px;
+    background-color: #ea4335;
+    color: white;
+  }
+
+
+
+.bodylist{
+    padding: 5px;
+    background-color: #ea4335;
+    color: white;
+    margin: 5px 0px;
+
+
+}
+.Sidebarinbox{
+    padding: 5px;
+    background-color: #ea4335;
+    color: white;
+    margin: 5px 0px;
+}
+
